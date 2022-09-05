@@ -1,1 +1,1 @@
-ALX bash scripting tutorial
+project for shell direction
